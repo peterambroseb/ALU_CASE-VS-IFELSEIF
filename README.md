@@ -346,4 +346,4 @@ The Liberty files are present in the library path,
 #### Fig 12: Tabulate Area,Power and Timing Report Comparision of ALU using case and ifelseif construct
 
 ## Result
-The 32-bit ALU implemented using behavioural case statements and if–elseif constructs was successfully verified under Incisive (ncvlog/ncsim) for all tested vectors.A comparative analysis revealed that the case-statement-based ALU and the if–elseif-based ALU exhibited identical area and power consumption have no differnce Both implementations were functionally correct and synthesizable Both designs, however, produced identical functional outputs.
+The 32-bit ALU implemented using behavioural case statements and if–elseif constructs was successfully verified under Incisive (ncvlog/ncsim) for all tested vectors.A comparative analysis revealed that the case-statement-based ALU and the if–elseif-based ALU exhibited identical area and power consumption have no difference Both implementations were functionally correct and synthesizable Both designs, however, produced identical functional outputs.
